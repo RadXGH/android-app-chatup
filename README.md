@@ -5,6 +5,7 @@ Uses Firebase for account authentications, account settings, and chatting functi
 ## Main Tech
 - [Firebase Authentication](https://firebase.google.com/docs/auth)
 - [Firebase Realtime Database](https://firebase.google.com/docs/database)
+- [Firebase Storage](https://firebase.google.com/docs/storage)
 
 ## UI Design
 The UI is designed using Figma.
